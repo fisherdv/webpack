@@ -18,3 +18,11 @@ npm run babel
 Получен страшный файлик 
 
 ![Babel](/screenshots/babel.png)
+
+
+Добавлен ```webpack.config.js```
+и скрипты для запуска:
+```
+npm run webpackDev
+npm run webpackBuild
+```
